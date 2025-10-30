@@ -1,0 +1,5 @@
+/target
+config.json
+espeak-ng-data
+/libs
+*.onnx*

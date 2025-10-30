@@ -1,0 +1,3 @@
+[submodule "external/piper1-gpl"]
+	path = external/piper1-gpl
+	url = https://github.com/OHF-Voice/piper1-gpl
